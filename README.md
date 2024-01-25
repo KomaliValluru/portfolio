@@ -9,8 +9,5 @@
 
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on as a Graduate Assistant at University of South Florida
 - 🌱 I’m currently learning LLM's 
