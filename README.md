@@ -9,5 +9,4 @@
 
 
 
-- 🔭 I’m currently working on as a Graduate Assistant at University of South Florida
-- 🌱 I’m currently learning LLM's 
+- 🔭 I’m currently working on building an emotionally aware chatbot using Seq2Seq Model.
