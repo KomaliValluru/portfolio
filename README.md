@@ -6,7 +6,6 @@
   - [NLP](https://github.com/KomaliValluru/LLMs/blob/main/Exploring%20NLP%20through%20Hugging%20Face%20Transformers%20Library.ipynb)
 - <b>Webscraping using BeautifulSoup</b>
   - [WebScraping](https://github.com/KomaliValluru/DS/blob/LLM/webscraping_beautifulsoup.ipynb) 
-
-
-
-- 🔭 I’m currently working on building an emotionally aware chatbot using Seq2Seq Model.
+- <b>Empathetic Chatbot</b>
+  - [AI Chatbot](https://github.com/KomaliValluru/LLMs/blob/main/Prompt_engineering.ipynb)
+  
