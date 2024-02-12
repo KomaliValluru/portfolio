@@ -8,5 +8,5 @@
   - [WebScraping](https://github.com/KomaliValluru/DS/blob/LLM/webscraping_beautifulsoup.ipynb) 
 - <b>Empathetic Chatbot</b>
   - [AI Chatbot](https://github.com/KomaliValluru/LLMs/blob/main/Prompt_engineering.ipynb)
-- <b>Video Games Sales Visualization using Tableau</b>
+- <b>Tableau Projects</b>
   - [Video Games Sales](https://github.com/KomaliValluru/DS/blob/LLM/tableau.md)
