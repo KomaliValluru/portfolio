@@ -4,6 +4,8 @@
   
 - <b>Movie Rating Prediction using ML and NLP</b>
   - [Predictive Model](https://github.com/KomaliValluru/Movie-Rating-Prediction)
+- <b>Waste Classification using ViT Transformer</b>
+  - [Classification Model](https://github.com/KomaliValluru/waste-classification)
 - <b>Exploring NLP through Transformers from HuggingFace</b>
   - [NLP](https://github.com/KomaliValluru/LLMs/blob/main/Exploring%20NLP%20through%20Hugging%20Face%20Transformers%20Library.ipynb)
 - <b>Webscraping using BeautifulSoup</b>
