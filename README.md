@@ -1,5 +1,5 @@
 <h1>Hi, I'm Komali! </h1>
-<h2> Welcome to my space! I am a data enthusiast working on data related projects, learning new tools and technologies. 
+<h2> Welcome to my space! I am a data enthusiast working on data related projects, learning new tools and technologies. This page is a quick index on projects.
 <h2>👨‍💻 Projects:</h2>
   
 - <b>Movie Rating Prediction using ML and NLP</b>
