@@ -1,6 +1,6 @@
 ## Greetings!
 
-I am Komali Valluru, a passionate Data Enthusiast with a focus on leveraging data to drive insights, innovation, and transformation. My journey encompasses a robust academic foundation in Computer Science, enriched by hands-on experience in data engineering, analysis, and machine learning. This portfolio is a gateway to my professional narrative, showcasing my projects, skills, and the continuous pursuit of knowledge.
+I am Komali Valluru, a Data Enthusiast with a focus on leveraging data to drive insights, innovation, and transformation. My journey encompasses a robust academic foundation in Computer Science, enriched by hands-on experience in data engineering, analysis, and machine learning. This portfolio is a gateway to my professional narrative, showcasing my projects, skills, and the continuous pursuit of knowledge.
 
 ---
 
@@ -18,7 +18,6 @@ I am Komali Valluru, a passionate Data Enthusiast with a focus on leveraging dat
 _August 2023 – Present_
 - Facilitated the "Computers in Business" course, significantly reducing grading workload by 95% through enhancements to the auto grader tool.
 - Developed a comprehensive web report drawing insights from Canvas APIs to augment instructors' understanding of student engagement.
-- Created a Tableau dashboard for real-time comparative analysis of student teams, fostering a competitive learning environment.
 
 ### Application Development Analyst
 **Accenture, India**  
