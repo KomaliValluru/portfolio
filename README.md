@@ -1,17 +1,42 @@
-# Welcome to Komali Valluru's Portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Komali Valluru's Professional Portfolio</title>
+</head>
+<body>
+
+# Welcome to Komali Valluru's Professional Portfolio
 
 ## Greetings!
 
-I am Komali Valluru, a passionate Data Enthusiast with a focus on leveraging data to drive insights, innovation, and transformation. My journey encompasses a robust academic foundation in Computer Science, enriched by hands-on experience in data engineering, analysis, and machine learning. This portfolio is a gateway to my professional narrative, showcasing my projects, skills, and the continuous pursuit of knowledge.
+<p>I am <strong>Komali Valluru</strong>, a passionate <em>Data Enthusiast</em> with a focus on leveraging data to drive insights, innovation, and transformation. My journey encompasses a robust academic foundation in Computer Science, enriched by hands-on experience in data engineering, analysis, and machine learning. This portfolio is a gateway to my professional narrative, showcasing my projects, skills, and the continuous pursuit of knowledge.</p>
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | GPA | Year |
-|--------|-------------|-----|------|
-| Master of Science in Computer Science | University of South Florida | 3.8/4 | 2022 - 2024 |
-| Bachelor of Technology in Computer Science | GVP College of Engineering | 8.2/10 | 2015 - 2019 |
+<table>
+    <tr>
+        <th>Degree</th>
+        <th>Institution</th>
+        <th>GPA</th>
+        <th>Year</th>
+    </tr>
+    <tr>
+        <td>Master of Science in Computer Science</td>
+        <td>University of South Florida</td>
+        <td>3.8/4</td>
+        <td>2022 - 2024</td>
+    </tr>
+    <tr>
+        <td>Bachelor of Technology in Computer Science</td>
+        <td>GVP College of Engineering</td>
+        <td>8.2/10</td>
+        <td>2015 - 2019</td>
+    </tr>
+</table>
 
 ## 💼 Work Experience
 
@@ -44,7 +69,7 @@ _August 2019 – September 2021_
 
 ## 🚀 Projects
 
-Projects are the heart of my professional journey, reflecting my ability to tackle complex problems with innovative solutions. Below is a snapshot of my endeavors:
+<p>Projects are the heart of my professional journey, reflecting my ability to tackle complex problems with innovative solutions. Below is a snapshot of my endeavors:</p>
 
 - **Movie Rating Prediction using ML and NLP**  
   _Technologies: Decision Trees, Random Forest, BERT_  
@@ -70,4 +95,7 @@ Projects are the heart of my professional journey, reflecting my ability to tack
 
 ---
 
-Connect with me on [LinkedIn](https://linkedin.com/in/komali-valluru/) | Explore my [GitHub](https://github.com/KomaliValluru)
+<p>Connect with me on <a href="https://linkedin.com/in/komali-valluru/">LinkedIn</a> | Explore my <a href="https://github.com/KomaliValluru">GitHub</a></p>
+
+</body>
+</html>
