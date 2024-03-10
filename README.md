@@ -1,5 +1,3 @@
-# Komali Valluru's Portfolio
-
 ## Greetings!
 
 I am Komali Valluru, a passionate Data Enthusiast with a focus on leveraging data to drive insights, innovation, and transformation. My journey encompasses a robust academic foundation in Computer Science, enriched by hands-on experience in data engineering, analysis, and machine learning. This portfolio is a gateway to my professional narrative, showcasing my projects, skills, and the continuous pursuit of knowledge.
