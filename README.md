@@ -16,20 +16,23 @@ I am Komali Valluru, a Data Enthusiast with a focus on leveraging data to drive 
 ### Graduate Instructional Assistant
 **University of South Florida, Tampa FL**  
 _August 2023 – Present_
-- Facilitated the "Computers in Business" course, significantly reducing grading workload by 95% through enhancements to the auto grader tool.
-- Developed a comprehensive web report drawing insights from Canvas APIs to augment instructors' understanding of student engagement.
+-	Analyzed metrics for student success to generate a web report for instructors by using Canvas Modules API and Azure Data Lake. This can result in increased instructor student engagement by 55%.
+-	Created a Tableau dashboard integrating with BizCafe interface to provide real-time updates on the standings of 50+ student teams at the course level, resulting in a notable 25% boost in student activity.
 
 ### Application Development Analyst
 **Accenture, India**  
 _October 2021 – July 2022_
-- Spearheaded ETL development for Corteva Agriscience, optimizing data migration processes to SAP S/4HANA, enhancing load times by 60%.
-- Played a pivotal role in project implementation phases, from requirement gathering to production migration.
+-	Led ETL enhancement projects to rectify data mapping errors in jobs arising from inconsistent data; established data validation checks, data transformation processes, and regex filtering mechanisms, leading to a 30% decrease in job failures.
+-	Designed SAP BODS jobs to extract 10 million records from sources including Excel, flat files, and ERP systems, enabling Excel and Tableau reports, leading to a 35% improvement in analytics report utilization.
+-	Developed data migration jobs to move from legacy SAP ECC to S/4 HANA Cloud. Conducted feasibility check, established RFC Connections, IDocs posting and deployment strategy resulting in annual cost savings of $7M.
+-	Resolved critical ETL failures by collaborating with 10+ global financial teams, leading to a 5% decrease in helpdesk tickets.
 
 ### Data Engineer
 **Infosys, India**  
 _August 2019 – September 2021_
-- Engaged in ETL pipeline development for Kraft Heinz, streamlining data processing and reporting mechanisms.
-- Implemented automation and reconciliation projects, contributing to enhanced data integrity and reporting accuracy.
+-	Generated reconciliation reports identifying a 68k USD discrepancy between financial reporting tools. Presented findings to leadership and advised technical solutions. Received INSTA Award (awarded to top 1% of people) for contributions.
+-	Implemented automation job to generate 85k combinations of master data key mappings. Incorporated SQL stored procedures and merge functions to update the records based on date function. The project alleviated manual mapping maintenance by 95%.
+-	Designed and implemented ETL pipelines and views to integrate actuals and budget data from 15+ SAP and non-SAP systems into SAP BW and Snowflake, resolving data fragmentation and constructing analytical views.
 
 ## 🛠 Skills & Certifications
 
