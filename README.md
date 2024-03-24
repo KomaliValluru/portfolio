@@ -36,10 +36,10 @@ _August 2019 – September 2021_
 
 ## 🛠 Skills & Certifications
 
-- **Languages:** Python, SQL, PostgreSQL, Java
-- **Databases:** SQL Server, Oracle DB, SAP HANA Studio
-- **Tools/Technologies:** Tableau, SAP BODS, Microsoft Azure (Data Lake, Synapse Analytics)
-- **Concepts:** Machine Learning, Generative AI, Data Warehousing, Data Science
+- **Programming:** Python (Scikit Learn, Pandas, NumPy, PyTorch, Matplotlib, Keras), SQL, PostgreSQL, R, Linux, UNIX
+- **Databases:** SQL Server, Oracle DB, MySQL, PostgreSQL, Hive, SAP HANA Studio
+- **Tools:** Tableau, SAP BODS, Looker, Azure Data Lake, Excel, Google BigQuery
+- **Concepts:** Machine Learning, Optimization, Hyperparameter Tuning, Statistics, LLM, NLP, Image Classification, Data Warehousing.
 - **Certifications:** ![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-blue) ![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data%20Fundamentals-blue)
 
 ## 🚀 Projects
