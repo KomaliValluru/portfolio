@@ -4,13 +4,6 @@ I am Komali Valluru, a Data Enthusiast with a focus on leveraging data to drive 
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | GPA | Year |
-|--------|-------------|-----|------|
-| Master of Science in Computer Science | University of South Florida | 3.8/4 | 2022 - 2024 |
-| Bachelor of Technology in Computer Science | GVP College of Engineering | 8.2/10 | 2015 - 2019 |
-
 ## 💼 Work Experience
 
 ### Graduate Instructional Assistant
