@@ -1,66 +1,73 @@
-# 👋 Hi, I’m Komali Valluru
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Komali Valluru | Data Engineer</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <div class="max-w-5xl mx-auto px-6 py-10">
+    <header class="mb-10">
+      <h1 class="text-4xl font-bold text-indigo-600">👋 Hi, I'm Komali Valluru</h1>
+      <p class="mt-4 text-lg">Data Engineer | Cloud Enthusiast | AI Explorer</p>
+      <p class="mt-2 text-gray-600">I design and automate data workflows, orchestrate cloud systems, and build machine learning applications that deliver real-world value.</p>
+    </header>
 
-Welcome to my digital portfolio! I’m a **Data Engineer** with a passion for transforming complex data into impactful, business-ready solutions. From real-time data pipelines to AI-powered applications, I love creating systems that are as scalable as they are insightful.
+    <section class="mb-10">
+      <h2 class="text-2xl font-semibold text-indigo-500 mb-4">💼 Professional Snapshot</h2>
+      <ul class="space-y-4">
+        <li>
+          <h3 class="text-xl font-semibold">🚀 Data Engineer @ MyBambu</h3>
+          <p class="text-gray-700">Designed pipelines with Fivetran, Lambda, Snowflake, and Prefect to ingest marketing and customer care data. Reduced compute cost by 45% and drove customer growth.</p>
+        </li>
+        <li>
+          <h3 class="text-xl font-semibold">🧑‍🏫 Graduate Assistant @ University of South Florida</h3>
+          <p class="text-gray-700">Built Tableau dashboards, GPT-3.5-powered chatbot, and automated Canvas insights. Boosted student engagement by 55%.</p>
+        </li>
+        <li>
+          <h3 class="text-xl font-semibold">🧩 Analyst @ Accenture</h3>
+          <p class="text-gray-700">Led S/4HANA migration (10TB+), optimized ETL pipelines with SCD logic, and enabled 99% data accuracy across financial systems.</p>
+        </li>
+        <li>
+          <h3 class="text-xl font-semibold">🏢 Data Engineer @ Infosys</h3>
+          <p class="text-gray-700">Automated master data ETL pipelines, delivered reconciliation dashboards, and won INSTA Award for top-tier performance.</p>
+        </li>
+      </ul>
+    </section>
 
-With experience across **finance**, **marketing**, **customer care**, and **enterprise platforms**, I bring a cross-functional approach to every challenge. Whether it’s designing ETL pipelines, orchestrating cloud workflows, or fine-tuning machine learning models, I aim to deliver clarity through data.
+    <section class="mb-10">
+      <h2 class="text-2xl font-semibold text-indigo-500 mb-4">🚀 Featured Projects</h2>
+      <ul class="grid md:grid-cols-2 gap-6">
+        <li class="bg-white shadow rounded-xl p-4">
+          <h4 class="font-bold text-lg">🎬 Movie Rating Prediction</h4>
+          <p>ML & NLP models using BERT and Random Forest to predict review-based ratings.</p>
+          <a href="https://github.com/KomaliValluru/Movie-Rating-Prediction" class="text-indigo-600 font-medium">View on GitHub →</a>
+        </li>
+        <li class="bg-white shadow rounded-xl p-4">
+          <h4 class="font-bold text-lg">🗑️ Waste Classification</h4>
+          <p>Built Vision Transformer (ViT) model with 98% accuracy. Hosted on HuggingFace.</p>
+          <a href="https://github.com/KomaliValluru/waste-classification" class="text-indigo-600 font-medium">View on GitHub →</a>
+        </li>
+        <li class="bg-white shadow rounded-xl p-4">
+          <h4 class="font-bold text-lg">🤖 Empathetic Chatbot</h4>
+          <p>Chatbot using GPT-3.5 Turbo, engineered for emotionally intelligent responses.</p>
+          <a href="https://github.com/KomaliValluru/LLMs/blob/main/Prompt_engineering.ipynb" class="text-indigo-600 font-medium">View on GitHub →</a>
+        </li>
+        <li class="bg-white shadow rounded-xl p-4">
+          <h4 class="font-bold text-lg">📊 Tableau Dashboards</h4>
+          <p>Insights from gaming and real estate datasets, visualized in Tableau.</p>
+          <a href="https://github.com/KomaliValluru/DS/tree/LLM" class="text-indigo-600 font-medium">Explore Dashboards →</a>
+        </li>
+      </ul>
+    </section>
 
----
-
-## 💼 Professional Snapshot
-
-### 🚀 Data Engineer @ MyBambu  
-**West Palm Beach, FL | June 2024 – Present**  
-- Built real-time ingestion pipelines using **Fivetran**, **AWS Lambda**, **S3**, and **Snowflake** to support marketing and customer care analytics.  
-- Automated dbt + Sigma BI workflows via **Prefect**, cutting compute costs by **45%**.  
-- Enabled **Change Data Capture** with Snowflake tasks/streams, improving efficiency and reducing redundant loads.  
-- Led **admin/security** roles in Snowflake and Sigma, managing key-pair auth and network policies.
-
-### 🧑‍🏫 Graduate Assistant @ University of South Florida  
-**Tampa, FL | Aug 2023 – May 2024**  
-- Built an empathetic **LLM-based chatbot** using OpenAI GPT-3.5 Turbo to support coursework interaction.  
-- Created Tableau dashboards and Canvas-integrated analytics for 50+ student teams, improving engagement by **25%**.  
-- Automated grading pipelines with **Azure Data Lake + Canvas API**, boosting student-instructor interaction by **55%**.
-
-### 🧩 Application Development Analyst @ Accenture  
-**India | Oct 2021 – Jul 2022**  
-- Migrated **10TB+** from SAP ECC to S/4HANA Cloud via **SAP BODS**, saving $7M/year.  
-- Designed parallelized ETL with SCD Type 3 logic, reducing load time by **60%**.  
-- Delivered financial data reconciliation, UAT test frameworks, and production automation tools.
-
-### 🏢 Data Engineer @ Infosys  
-**India | Aug 2019 – Sep 2021**  
-- Built master data automation workflows (85k+ mappings), eliminating **95%** of manual processes.  
-- Consolidated SAP/non-SAP data sources into **SAP BW and Snowflake**, improving cross-platform reporting.  
-- Delivered award-winning reconciliation reports and dashboards across budgeting, finance, and master data domains.
-
----
-
-## 🚀 Projects
-
-| Project | Summary | Tech |
-|--------|---------|------|
-| [🎬 Movie Rating Prediction](https://github.com/KomaliValluru/Movie-Rating-Prediction) | ML/NLP models to predict movie ratings from reviews, using BERT + Random Forest. | Python, BERT, Scikit-learn |
-| [🗑️ Waste Classification](https://github.com/KomaliValluru/waste-classification) | Vision Transformer model (ViT) achieving 98% accuracy on image classification. | HuggingFace, ViT |
-| [🤖 Empathetic Chatbot](https://github.com/KomaliValluru/LLMs/blob/main/Prompt_engineering.ipynb) | GPT-3.5 Turbo chatbot for emotionally intelligent response generation. | OpenAI API |
-| [📊 Tableau Dashboards](https://github.com/KomaliValluru/DS/tree/LLM) | Visual insights from real estate and gaming datasets. | Tableau, SQL, Excel |
-
----
-
-## 🧠 Skills at a Glance
-
-- **Languages:** Python, SQL, R, Java  
-- **Cloud & Tools:** AWS, Azure, Snowflake, dbt, SAP BODS, Airflow, Prefect  
-- **Databases:** PostgreSQL, SQL Server, SAP HANA, Oracle  
-- **Concepts:** ETL/ELT, Data Warehousing, CDC, Orchestration, Machine Learning, NLP, Visualization  
-
----
-
-## 📫 Let’s Connect!
-
-- 📧 Email: [vkomalidevi9866@gmail.com](mailto:vkomalidevi9866@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/komali-valluru](https://linkedin.com/in/komali-valluru)  
-- 🖥️ GitHub: [github.com/KomaliValluru](https://github.com/KomaliValluru)
-
----
-
-_Thanks for visiting my portfolio! If you’d like to collaborate, chat about data systems, or just say hi — feel free to reach out._ 🙌
+    <section>
+      <h2 class="text-2xl font-semibold text-indigo-500 mb-4">📫 Connect With Me</h2>
+      <p>Email: <a href="mailto:vkomalidevi9866@gmail.com" class="text-indigo-600">vkomalidevi9866@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/komali-valluru" class="text-indigo-600">linkedin.com/in/komali-valluru</a></p>
+      <p>GitHub: <a href="https://github.com/KomaliValluru" class="text-indigo-600">github.com/KomaliValluru</a></p>
+    </section>
+  </div>
+</body>
+</html>
