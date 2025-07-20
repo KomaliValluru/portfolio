@@ -1,6 +1,25 @@
-title: Komali Devi Valluru
+title: "Komali Valluru | Data Engineer Portfolio"
+description: "Transforming complex data into business insights | 5+ years in Data Engineering, Cloud, and AI/ML"
 logo: zenitsu.png
 show_downloads: false
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+
+# SEO and metadata
+author: "Komali Valluru"
+email: "vkomalidevi9866@gmail.com"
+linkedin: "https://linkedin.com/in/komali-valluru"
+github: "https://github.com/KomaliValluru"
+
+# Custom CSS for better theming
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# GitHub Pages settings
+url: "https://komalivalluru.github.io"
+baseurl: "/portfolio"
+
+# Enable syntax highlighting
+highlighter: rouge
